@@ -30,4 +30,4 @@ I enjoy solving problems, learning new technologies, and building projects that 
 ---
 
 ### ⚡ Fun Fact  
-I’m a backend-focused developer who enjoys experimenting with AI/ML models in my free time 🔥  
+I’m a backend-focused developer who enjoys experimenting with AI/ML models in my free time 
