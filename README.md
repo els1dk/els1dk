@@ -27,7 +27,7 @@ I enjoy solving problems, learning new technologies, and building projects that 
 
 ---
 
-🌱 Currently Exploring  
+### 🌱 Currently Exploring  
 - Advanced **Spring Boot** development  
 - **Angular** for frontend integration  
 - **Machine Learning** with Python  
