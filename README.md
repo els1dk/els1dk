@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Elsa-shyti.gif" width="300" />
+</p>
 ## Hello there! 👋  
 
 I’m a 3rd year Computer Science student at the University of Debrecen   
