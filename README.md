@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Elsa shyti.gif" width="30px" height="30px" />
+  <img src="Elsa shyti.gif" width="600px" height="600" />
 </p>
 ## Hello there! 👋  
 
