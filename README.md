@@ -4,7 +4,7 @@
 
 ### Hello!  
 
-I’m a 3rd year Computer Science Engineering student at the University of Debrecen   
+I’m a 2nd year Computer Science Engineering student at the University of Debrecen   
 Passionate about software engineering, backend development, and AI/ML  
 I enjoy solving problems, learning new technologies, and building projects that push my skills forward  
 
